@@ -8,9 +8,12 @@ This repository showcases my optimized and efficient SQL queries for various pro
 ## 📂 Repository Contents
 
 ### 🏆 Challenges
-1. **Basic Select**  
+1. **Basic Select**
+   - Japanese Cities' Attributes
    - Revising the Select Query I
    - Revising the Select Query II
+   - Select All
+   - Select By ID
    
 ---
 
