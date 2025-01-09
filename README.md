@@ -9,7 +9,8 @@ This repository showcases my optimized and efficient SQL queries for various pro
 
 ### 🏆 Challenges
 1. **Basic Select**  
-   Revising the Select Query I
+   - Revising the Select Query I
+   - Revising the Select Query II
    
 ---
 
