@@ -1,7 +1,7 @@
 # 💻 HackerRank SQL Challenges Solutions 🚀
 
 Welcome to my collection of **HackerRank SQL challenge solutions**! 🥷  
-This repository showcases my optimized and efficient MySQL queries for various problem-solving scenarios. Each solution is designed to demonstrate strong analytical and query-writing skills.  
+This repository showcases my optimized and efficient **MySQL queries** for various problem-solving scenarios. Each solution is designed to demonstrate strong analytical and query-writing skills.  
 
 ---
 
