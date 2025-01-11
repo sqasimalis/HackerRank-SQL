@@ -19,6 +19,16 @@ This repository showcases my optimized and efficient SQL queries for various pro
    - Select All
    - Select By ID
    - Weather Observation Station 1
+   - Weather Observation Station 3
+   - Weather Observation Station 4
+   - Weather Observation Station 5
+   - Weather Observation Station 6
+   - Weather Observation Station 7
+   - Weather Observation Station 8
+   - Weather Observation Station 9
+   - Weather Observation Station 10
+   - Weather Observation Station 11
+   - Weather Observation Station 12
    
 ---
 
