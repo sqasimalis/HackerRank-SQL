@@ -29,7 +29,12 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
    - [Weather Observation Station 10](./Basic%20Select/Weather%20Observation%20Station%2010.sql)
    - [Weather Observation Station 11](./Basic%20Select/Weather%20Observation%20Station%2011.sql)
    - [Weather Observation Station 12](./Basic%20Select/Weather%20Observation%20Station%2012.sql)
-   
+2. **[Advanced Select](./Advanced%20Select)**
+   - [Binary Tree Nodes](./Advanced%20Select/Binary%20Tree%20Nodes.sql)
+   - [New Companies](./Advanced%20Select/New%20Companies.sql)
+   - [Occupations](./Advanced%20Select/Occupations.sql)
+   - [The PADS](./Advanced%20Select/The%20PADS.sql)
+   - [Type of Triangle](./Advanced%20Select/Type%20of%20Triangle.sql)
 ---
 
 ## 🚀 How to Use
