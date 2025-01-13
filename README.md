@@ -35,6 +35,13 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
    - [Occupations](./Advanced%20Select/Occupations.sql)
    - [The PADS](./Advanced%20Select/The%20PADS.sql)
    - [Type of Triangle](./Advanced%20Select/Type%20of%20Triangle.sql)
+3. **[Aggregation](./Aggregation)**
+   - [Average Population](./Aggregation/Average%20Population.sql)
+   - [Japan Population](./Aggregation/Japan%20Population.sql)
+   - [Population Density Difference](./Aggregation/Population%20Density%20Difference.sql)
+   - [Revising Aggregations - Averages](./Aggregation/Revising%20Aggregations%20-%20Averages.sql)
+   - [Revising Aggregations - The Count Function](./Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+   - [Revising Aggregations - The Sum Function](./Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
 ---
 
 ## 🚀 How to Use
