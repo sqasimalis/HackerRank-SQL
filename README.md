@@ -42,6 +42,9 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
    - [Revising Aggregations - Averages](./Aggregation/Revising%20Aggregations%20-%20Averages.sql)
    - [Revising Aggregations - The Count Function](./Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
    - [Revising Aggregations - The Sum Function](./Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+   - [The Blunder](./Aggregation/The%20Blunder.sql)
+   - [Top Earners](./Aggregation/Top%20Earners.sql)
+   - [Weather Observation Station 2](./Aggregation/Weather%20Observation%20Station%202.sql)
 ---
 
 ## 🚀 How to Use
