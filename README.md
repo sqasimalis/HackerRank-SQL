@@ -45,6 +45,10 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
    - [The Blunder](./Aggregation/The%20Blunder.sql)
    - [Top Earners](./Aggregation/Top%20Earners.sql)
    - [Weather Observation Station 2](./Aggregation/Weather%20Observation%20Station%202.sql)
+   - [Weather Observation Station 13](./Aggregation/Weather%20Observation%20Station%2013.sql)
+   - [Weather Observation Station 14](./Aggregation/Weather%20Observation%20Station%2014.sql)
+   - [Weather Observation Station 15](./Aggregation/Weather%20Observation%20Station%2015.sql)
+   - [Weather Observation Station 16](./Aggregation/Weather%20Observation%20Station%2016.sql)
 ---
 
 ## 🚀 How to Use
