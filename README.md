@@ -49,6 +49,10 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
    - [Weather Observation Station 14](./Aggregation/Weather%20Observation%20Station%2014.sql)
    - [Weather Observation Station 15](./Aggregation/Weather%20Observation%20Station%2015.sql)
    - [Weather Observation Station 16](./Aggregation/Weather%20Observation%20Station%2016.sql)
+   - [Weather Observation Station 17](./Aggregation/Weather%20Observation%20Station%2017.sql)
+   - [Weather Observation Station 18](./Aggregation/Weather%20Observation%20Station%2018.sql)
+   - [Weather Observation Station 19](./Aggregation/Weather%20Observation%20Station%2019.sql)
+   - [Weather Observation Station 20](./Aggregation/Weather%20Observation%20Station%2020.sql)
 ---
 
 ## 🚀 How to Use
