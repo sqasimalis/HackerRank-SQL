@@ -53,6 +53,10 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
    - [Weather Observation Station 18](./Aggregation/Weather%20Observation%20Station%2018.sql)
    - [Weather Observation Station 19](./Aggregation/Weather%20Observation%20Station%2019.sql)
    - [Weather Observation Station 20](./Aggregation/Weather%20Observation%20Station%2020.sql)
+4. **[Basic Join](./Basic%20Join)**
+   - [African Cities](./Basic%20Join/African%20Cities.sql)
+   - [Average Population of Each Continent](./Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
+   - [Ollivander's Inventory](./Basic%20Join/Ollivander's%20Inventory.sql)
 ---
 
 ## 🚀 How to Use
