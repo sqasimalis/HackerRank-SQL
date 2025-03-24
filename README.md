@@ -56,7 +56,14 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
 4. **[Basic Join](./Basic%20Join)**
    - [African Cities](./Basic%20Join/African%20Cities.sql)
    - [Average Population of Each Continent](./Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
+   - [Challenges](./Basic%20Join/Challenges.sql)
+   - [Contest Leaderboard](./Basic%20Join/Contest%20Leaderboard.sql)
    - [Ollivander's Inventory](./Basic%20Join/Ollivander's%20Inventory.sql)
+   - [Population Census](./Basic%20Join/Population%20Census.sql)
+   - [The Report](./Basic%20Join/The%20Report.sql)
+   - [Top Competitors](./Basic%20Join/Top%20Competitors.sql)
+5. **[Advanced Join](./Advanced%20Join)**
+   - 
 ---
 
 ## 🚀 How to Use
