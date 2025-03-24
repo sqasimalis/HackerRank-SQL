@@ -68,6 +68,10 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
    - [Placements](./Advanced%20Join/Placements.sql)
    - [SQL Project Planning](./Advanced%20Join/SQL%20Project%20Planning.sql)
    - [Symmetric Pairs](./Advanced%20Join/Symmetric%20Pairs.sql)
+6. **[Alternative Queries](./Alternative%20Queries)**
+   - [Draw The Triangle 1](./Alternative%20Queries/Draw%20The%20Triangle%201.sql)
+   - [Draw The Triangle 2](./Alternative%20Queries/Draw%20The%20Triangle%202.sql)
+   - [Print Prime Numbers](./Alternative%20Queries/Print%20Prime%20Numbers.sql)
 ---
 
 ## 🚀 How to Use
