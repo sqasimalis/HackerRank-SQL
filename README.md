@@ -63,7 +63,11 @@ This repository showcases my optimized and efficient **MySQL queries** for vario
    - [The Report](./Basic%20Join/The%20Report.sql)
    - [Top Competitors](./Basic%20Join/Top%20Competitors.sql)
 5. **[Advanced Join](./Advanced%20Join)**
-   - 
+   - [15 Days of Learning SQL](./Advanced%20Join/15%20Days%20of%20Learning%20SQL.sql)
+   - [Interviews](./Advanced%20Join/Interviews.sql)
+   - [Placements](./Advanced%20Join/Placements.sql)
+   - [SQL Project Planning](./Advanced%20Join/SQL%20Project%20Planning.sql)
+   - [Symmetric Pairs](./Advanced%20Join/Symmetric%20Pairs.sql)
 ---
 
 ## 🚀 How to Use
